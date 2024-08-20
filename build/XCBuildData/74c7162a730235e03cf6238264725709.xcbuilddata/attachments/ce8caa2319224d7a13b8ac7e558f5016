@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworks-master.swiftconstvalues",
+    "dependencies" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworks-master.d",
+    "diagnostics" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworks-master.dia",
+    "emit-module-dependencies" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworks-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworks-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworks-master.swiftdeps"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/DeveloperFrameworks/DeveloperFrameworksApp.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworksApp.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworksApp.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/DeveloperFrameworksApp.o"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/DeveloperFrameworks/Models/Framework.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/Framework.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/Framework.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/Framework.o"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/DeveloperFrameworks/Screens/FrameworkDetailView/FrameworkDetailView.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkDetailView.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkDetailView.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkDetailView.o"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/DeveloperFrameworks/Screens/FrameworkListView/FrameworkListView.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkListView.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkListView.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkListView.o"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/DeveloperFrameworks/SwiftUI Views/FrameworkCellView.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkCellView.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkCellView.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/FrameworkCellView.o"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/DeveloperFrameworks/UIKit Views/SafariView.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/SafariView.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/SafariView.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/SafariView.o"
+  },
+  "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/shayanameen/Developer/DeveloperFrameworks/build/DeveloperFrameworks.build/Release-iphoneos/DeveloperFrameworks.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
